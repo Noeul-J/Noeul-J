@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm HyeongJu!
 
-<!--
-**Noeul-J/Noeul-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a developer with 6 years of RPA and 3 years of Web development experience.  
+💻 Interested in Security, Automation, and Full-stack development.  
+🌍 Preparing for overseas opportunities (Japan & UK).
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages:** Python, C#, JavaScript (Vue, Node.js), TypeScript
+- **RPA:** PowerAutomate, UiPath, Worktro, VBA
+- **Tools:** Github, Docker, Figma, Slack, Notion
+- **DB:** MySQL, oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+
+## 🏆 Projects
