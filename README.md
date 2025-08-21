@@ -1,4 +1,3 @@
-# 👋
 
 🌱 I'm a developer with 6 years of RPA and 3 years of Web development experience.  
 💻 Interested in Security, Automation, and Full-stack development.  
