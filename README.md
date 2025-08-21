@@ -7,9 +7,11 @@
 - **Languages:** Python, C#, JavaScript (Vue, Node.js), TypeScript
 - **RPA:** PowerAutomate, UiPath, Worktro, VBA
 - **Tools:** Github, Docker, Figma, Slack, Notion
-- **DB:** MySQL, oracle
-
-## 📊 GitHub Stats
-
+- **DB:** MySQL, MSSQL
+  
 
 ## 🏆 Projects
+• RPA Bot Function Stability · Operations Response - Analyzed logs and identified error causes for operational bots. Enhanced monitoring and 
+notification systems, and continuously improved requirements and performance. 
+• Worktro UI Improvement · Vue3 Migration - Migrated existing Vue2 screens to Vue3. Improved UI/UX through designer collaboration 
+and optimized component structure. 
