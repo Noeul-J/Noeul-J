@@ -14,6 +14,7 @@
 • RPA Bot Function Stability · Operations Response 
 - Analyzed logs and identified error causes for operational bots.
 - Enhanced monitoring and notification systems, continuously improving performance. 
+
 • Worktro UI Improvement · Vue3 Migration
 - Migrated existing Vue2 screens to Vue3 and optimized component structure.
 - Collaborated with designers to improve UI/UX and system usability.
