@@ -1,6 +1,6 @@
 
-🌱 I'm a developer with 6 years of RPA and 1 years of Web development experience.  
-💻 Interested in Security, Automation, and Full-stack development.  
+🌱 I'm a developer with 6 years of RPA and 1 years of software development experience.  
+💻 Interested in Security, Automation, and software development.  
 🌍 Preparing for overseas opportunities (Japan & UK).
 
 ## 🚀 Tech Stack
