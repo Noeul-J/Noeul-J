@@ -1,7 +1,7 @@
 
 🌱 I'm a developer with 6 years of RPA and 1 years of software development experience.  
 💻 Interested in Security, Automation, and software development.  
-🌍 Preparing for overseas opportunities (Japan & UK).
+🌍 Preparing for overseas opportunities
 
 ## 🚀 Tech Stack
 - **Languages:** Python, C#, JavaScript (Vue, Node.js), TypeScript
